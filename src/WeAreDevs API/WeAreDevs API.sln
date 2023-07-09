@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeAreDevs API", "WeAreDevs API.csproj", "{2DA96FB7-323B-4A73-9DF2-46B9E2E2745B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA96FB7-323B-4A73-9DF2-46B9E2E2745B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA96FB7-323B-4A73-9DF2-46B9E2E2745B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA96FB7-323B-4A73-9DF2-46B9E2E2745B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA96FB7-323B-4A73-9DF2-46B9E2E2745B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03A7D40-6F15-4CEA-85C4-1451766A7BC5}
+	EndGlobalSection
+EndGlobal

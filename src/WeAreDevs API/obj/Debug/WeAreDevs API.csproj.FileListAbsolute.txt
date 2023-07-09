@@ -1,0 +1,9 @@
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\bin\Debug\WeAreDevs API.dll
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\bin\Debug\WeAreDevs API.pdb
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\obj\Debug\WeAreDevs API.csproj.AssemblyReference.cache
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\obj\Debug\WeAreDevs API.csproj.CoreCompileInputs.cache
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\obj\Debug\WeAreDevs API.csproj.CopyComplete
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\obj\Debug\WeAreDevs API.dll
+C:\Users\gillr\OneDrive\Desktop\Nukers, Exploits, And More\Roblox Exploit Projects\Frame\WeAreDevs API\obj\Debug\WeAreDevs API.pdb
