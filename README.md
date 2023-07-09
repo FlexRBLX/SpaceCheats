@@ -15,9 +15,6 @@ Create a new Visual Studios project. I recommend choosing the Windows Form App (
 image
 
 Add the exploit API as a reference
-[Add Reference Image](https://github.com/game-hax/Roblox-Exploit-API/raw/main/assets/devenv_kqebCUsWBc.gif)
-
-[thingy](https://github.com/game-hax/Roblox-Exploit-API/raw/main/assets/devenv_F6tbjiloEY.png)
 
 Start using the API! Example:
 using System;
@@ -52,7 +49,6 @@ namespace Tutorial
         }
     }
 }
-[Final Image](https://github.com/game-hax/Roblox-Exploit-API/raw/main/assets/Tutorial_MhsjSdkUBn.png)
 
 Your skidsploit will now work and auto-updates to the lastest version!
 
