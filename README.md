@@ -1,5 +1,7 @@
 # WeAreDevs API
 
+# THIS NOT LONGER WORKS! WEAREDEVS/FLUXUS IS DISCOUNTINUED, NEW VERSION AT https://discord.gg/getindigo
+
 ⚠️ This project are for educational purposes only, if you do use this on Roblox and you get banned, that is your fault as you are breaking their Terms of Service.
 Download API here
 This is a Roblox exploiting I brought back WeAreDevs API that supports the UWP version of Roblox! There is no key system and it auto-updates to the latest version!
